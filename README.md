@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
 A passionnate and eager to learn web developer from Belgium 🤖  
   
-<a href="mailto:antoine.ram16@gmail.com"><img src="https://img.shields.io/badge/Mail-%23DD0031.svg?&logo=gmail&logoColor=white"/></a>  
+<a href="mailto:antoine.ram16@gmail.com"><img src="https://img.shields.io/badge/Mail-%23DD0031.svg?&logo=gmail&logoColor=white"/></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoinedecamps/)  
   
 🔭 My current side-project is [VB-CREATION](https://github.com/AntoineDecamps/VB-project), a showcase website for client that allows him to show his beautiful work and manage his content.  
