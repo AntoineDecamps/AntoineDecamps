@@ -26,6 +26,8 @@ I'm currently mainly focusing on JavaScript which I love !
 <a href="mailto:antoine.ram16@gmail.com"><img src="https://img.shields.io/badge/Mail-%23DD0031.svg?&logo=gmail&logoColor=white"/></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoinedecamps/)  
   
+
+
 ## ⌨️ As a developer   
 🔭 My current side-project is [VB-CREATION](https://github.com/AntoineDecamps/VB-project), a showcase website for client that allows him to show his beautiful work and manage his content.  
   
@@ -40,12 +42,19 @@ I'm currently mainly focusing on JavaScript which I love !
 ✨ In the future, I'm planning to learn Angular.  
   
   
+
 ## ⚡️ Technologies  
   
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
   
+
+## Other interests  
+  🏆 Esports  
+  👾 Gaming  
+  🎧 Music  
+  📺 Series
