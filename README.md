@@ -17,9 +17,16 @@ Here are some ideas to get you started:
   
 A passionnate and eager to learn web developer from Belgium 🤖  
   
+## 🌱 About me    
+  
+My life changed when I discovered development and programming. As a previous financial auditor and marketer, I decided to invest myself 100% into becoming a developer and never been more happier since then. I'm really looking forwards to keep learning and improving everyday.  
+  
+I'm currently mainly focusing on JavaScript which I love !
+  
 <a href="mailto:antoine.ram16@gmail.com"><img src="https://img.shields.io/badge/Mail-%23DD0031.svg?&logo=gmail&logoColor=white"/></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoinedecamps/)  
   
+## ⌨️ As a developer   
 🔭 My current side-project is [VB-CREATION](https://github.com/AntoineDecamps/VB-project), a showcase website for client that allows him to show his beautiful work and manage his content.  
   
 📌 Last project in React : [Cheese&Wine](https://github.com/O-clock-Fantasy/fromages-et-vin-front) as Lead Dev Front, teaming up with Symfony Devs for the back-end part of the project.  
@@ -40,4 +47,5 @@ A passionnate and eager to learn web developer from Belgium 🤖
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
+  
