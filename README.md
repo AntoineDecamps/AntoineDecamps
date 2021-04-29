@@ -29,9 +29,9 @@ I'm currently mainly focusing on **JavaScript** which I love !
 
 
 ## ⌨️ As a developer   
-🔭 My current side-project is [VB-CREATION](https://github.com/AntoineDecamps/VB-project), a showcase website for client that allows him to show his beautiful work and manage his content.  
+🔭 My current side-project is [VB-CREATION](https://vb-creation-front.herokuapp.com), a showcase website for client that allows him to show his beautiful work and manage his content.  
   
-📌 Last project in React : [Cheese&Wine](https://github.com/O-clock-Fantasy/fromages-et-vin-front) as Lead Dev Front, teaming up with Symfony Devs for the back-end part of the project.  
+📌 Last project in React : [Cheese&Wine](https://github.com/AntoineDecamps/fromages-et-vin-front) as Lead Dev Front, teaming up with Symfony Devs for the back-end part of the project.  
   
 💻 **Stack** : React, Redux, Express, Gsap | **Database** : SQL, MongoDB | **Deployment** : AWS EC2 & Heroku  
   
