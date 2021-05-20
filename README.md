@@ -33,11 +33,11 @@ I'm currently mainly focusing on **JavaScript** which I love !
   
 📌 Last project in React : [Cheese&Wine](https://github.com/AntoineDecamps/fromages-et-vin-front) as Lead Dev Front, teaming up with Symfony Devs for the back-end part of the project.  
   
-💻 **Stack** : React, Redux, Express, Gsap | **Database** : SQL, MongoDB | **Deployment** : AWS EC2 & Heroku  
+💻 **Stack** : React, Redux, Express, Gsap, Angular | **Database** : SQL, MongoDB | **Deployment** : AWS EC2 & Heroku  
   
-🤓 I'm currently learning **TypeScript** that I'm going to use on my next personal project 🔜.  
+🤓 I'm currently learning **TypeScript** and **Angular** that I'm going to use on my next personal project 🔜.  
   
-✨ In the future, I'm planning to learn **Angular**.  
+✨ I'm also learning Cypress which is a testing framework.
   
   
 
